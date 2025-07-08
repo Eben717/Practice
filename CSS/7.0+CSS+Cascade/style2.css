@@ -1,0 +1,15 @@
+li{
+    color: blue;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.pg-list-item {
+    color: green;
+    font-weight: bold;
+}
+
+#ac-list-item {
+    color: red;
+    font-style: italic;
+}
