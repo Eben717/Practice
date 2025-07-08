@@ -4,6 +4,7 @@ li{
     margin: 10px;
 }
 
+/* Specificity test. */
 .pg-list-item {
     color: green;
     font-weight: bold;
@@ -13,3 +14,23 @@ li{
     color: red;
     font-style: italic;
 }
+
+/* Position test */
+.to-do-title {
+    color: purple;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.td {
+    color: pink;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.td-title{
+    color: orange;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
