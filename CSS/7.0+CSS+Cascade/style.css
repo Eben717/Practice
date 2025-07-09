@@ -10,3 +10,16 @@ p {
   margin: 0;
   padding: 0;
 }
+
+body{
+  border: 10px solid #9B177E;
+}
+
+.white-text{
+  color: white;
+}
+
+.box.inner-box{
+  background-color: red;
+  padding: 10px;
+}
